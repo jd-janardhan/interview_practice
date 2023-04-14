@@ -1,0 +1,3 @@
+[submodule "dso-demo"]
+	path = dso-demo
+	url = https://github.com/trivedirohit/dso-demo.git
